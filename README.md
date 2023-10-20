@@ -16,5 +16,5 @@ Airbnb data for London and many other cities can be downloaded [here](http://ins
 
 ### London Shapefiles
 
-The shapefiles used for creating choropleth maps were download from London Datastore and can be
+The shapefiles used for creating choropleth maps were downloaded from London Datastore and can be
 found under [this](https://data.london.gov.uk/dataset/statistical-gis-boundary-files-london) link.
